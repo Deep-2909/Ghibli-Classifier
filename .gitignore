@@ -1,0 +1,26 @@
+# Ignore dataset folder
+Ghibli/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Optional: Ignore model file if not to be pushed
+# model.pth
+
