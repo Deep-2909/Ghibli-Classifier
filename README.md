@@ -15,11 +15,11 @@ short_description: A DL model that classifies whether an image is Ghibli or not
 A deep learning model that classifies whether an input image is a Ghibli-style image or an original one.  
 It uses a fine-tuned ResNet18 model and offers a web interface using Gradio.
 
-Try it here: [Live Demo](https://your-huggingface-space-link)
+Try it here: [Live Demo](https://officialDP-ghibli-image-classifier.hf.space)
 
 ---
 
-## 🧠 Model
+## Model
 
 - Pretrained model: `ResNet18` from `torchvision`
 - Only the final layer was fine-tuned
@@ -27,7 +27,7 @@ Try it here: [Live Demo](https://your-huggingface-space-link)
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ```bash
 git clone https://github.com/yourusername/Ghibli_Classifier.git
